@@ -1,6 +1,6 @@
 ## tetris-clone
 
-A cross-platform C++ Tetris clone written using SDL. Distributed under the BSD license, which follows
+A cross-platform C++ Tetris clone written using SDL. Distributed under the FreeBSD License, which follows.
 
 ###Copyright 2010 Brandon Croft. All rights reserved.
 
